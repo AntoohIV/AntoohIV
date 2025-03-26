@@ -5,6 +5,12 @@
 ###
 
 <div align="center">
+  <img height="200" src="https://text.media.giphy.com/v1/media/giphy.gif?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJrZXkiOiJwcm9kLTIwMjAtMDQtMjIiLCJzdHlsZSI6ImNyZWVwIiwidGV4dCI6IldlbGNvbWUlMjB0byUyMEFudG9vaElWJ3MlMjBwcm9maWxlIiwiaWF0IjoxNzQyOTU1NzA1fQ.9uBiqENkh7-39WJzJUz_AIBFGFPm7qOIi11Fi8Fzaps"  />
+</div>
+
+###
+
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AntoohIV&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AntoohIV&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=false" height="150" alt="languages graph"  />
 </div>
